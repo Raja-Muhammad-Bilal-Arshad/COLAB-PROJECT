@@ -1,0 +1,2 @@
+DNS Server at 8.8.8.8 : dns.google
+DNS Server at 192.168.1.2 : local.lan
